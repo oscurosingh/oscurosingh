@@ -1,16 +1,19 @@
-# Hi 👋 I'm Oscuro (Shubham Singh)
+# Hi 👋 I'm Oscuro (Shubham Kumar Singh)
 
-![](https://komarev.com/ghpvc/?username=oscurosingh\&color=blue)
+![](https://komarev.com/ghpvc/?username=oscurosingh&color=blue)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![Data Science](https://img.shields.io/badge/Data-Science-orange)
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
 
-🎓 **BSc Physics (Hons)** — Shivaji College, University of Delhi  
-📊 Aspiring **Data Scientist** exploring **data analysis, machine learning, and statistical methods**  
-🐍 Using **Python, Pandas, NumPy, and visualization tools to understand data**
+🔗 [LinkedIn](https://www.linkedin.com/in/shubham-kumar-singh-oscuro/) · [GitHub](https://github.com/oscurosingh) · [Portfolio](https://shubhamkumarsinghdev.vercel.app/)
 
-I enjoy working with **data, building analytical tools, and solving real-world problems using Python and machine learning.**
-Currently exploring **Data Science, Machine Learning, and Backend Development.**
+🎓 **B.Sc. (Hons.) Physics** — Shivaji College, University of Delhi (2023–2026)
+🧭 Open to roles in **Python Development, Data Science / Analytics, Full Stack, and Backend Development**
+🛠 Building **production-style APIs, ML classification systems, and full-stack tools**
+🐍 Core stack: **Python, FastAPI, SQL, Pandas, Scikit-learn, JavaScript**
+
+I like turning messy data and vague requirements into working systems — APIs that don't fall over, ML models that are actually useful, and small tools that save real time.
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
@@ -18,158 +21,114 @@ Currently exploring **Data Science, Machine Learning, and Backend Development.**
 
 # 👨‍💻 About Me
 
-* 🎓 BSc Physics (Hons) at Shivaji College, University of Delhi
-* 📊 Interested in Data Science and Machine Learning
-* 🐍 Python developer building analytical tools
-* 📈 Exploring ML systems and backend APIs
+* 🎓 B.Sc. (Hons.) Physics, Shivaji College, University of Delhi — CGPA 7.73
+* 💼 Open to: **Python Developer · Data Scientist / Data Analyst · Full Stack · Backend Developer**
+* ⚙️ Backend: FastAPI, REST APIs, JWT auth, Role-Based Access Control
+* 📊 Data/ML: Pandas, NumPy, Scikit-learn, EDA, Random Forest classification
+* 🧑‍🏫 Also run a self-employed tutoring practice since 2021, with my own tracking system for homework and performance
 
 ---
 
-#  Projects
+# 🚀 Projects
+
+## 📄 PDF Automation SaaS
+Full-stack **PDF processing platform** with 15+ operations (merge, split, OCR, compression, encryption, conversion), built on modular FastAPI services.
+- Streaming responses with temporary (non-persistent) processing for large uploads
+- Deployed on Render with a consistent Vanilla JS frontend
+
+**Tech Stack:** FastAPI · Python · JavaScript · Render
+🔗 [Live](https://pdf-automation-rust.vercel.app/) · [API](https://pdf-automation-2.onrender.com/)
+
+## 🚨 AI Early Warning System
+Risk classification system (Low/Medium/High) for students using a **Random Forest** model — 80% accuracy across 300+ student records.
+- JWT-based auth with role-based access control (teacher/student)
+- Real-time updates via Supabase Realtime, with indexed PostgreSQL for low-latency queries
+
+**Tech Stack:** FastAPI · Supabase · PostgreSQL · Scikit-learn
+🔗 [Live](https://edusenseai-two.vercel.app/index.html) · [API](https://early-warning-system-25zs.onrender.com/)
 
 ## 📊 Smart Data Reporter
+Automated **EDA pipeline** for CSV ingestion, cleaning, and visualization — generates structured analytical summaries.
 
-Automated **data analysis web application** that generates insights from datasets.
-
-**Tech Stack**
-Python • Pandas • NumPy • Streamlit
-
-**Key Features**
-
-* Upload CSV datasets
-* Data cleaning & preprocessing
-* Statistical summaries
-* Automated insight generation
-
----
-
-## 📄 PDF Automation Platform
-
-Full‑stack **PDF processing platform** similar to iLovePDF with multiple tools.
-
-**Tech Stack**
-Python • FastAPI • HTML • CSS • JavaScript
-
-**Key Features**
-
-* Merge PDF
-* Split PDF
-* OCR
-* Encryption
-* Watermark
-* File conversion tools
-
----
+**Tech Stack:** Python · Pandas · Streamlit
+🔗 [GitHub](https://github.com/oscurosingh/smart-data-reporter)
 
 ## 🧾 Student Management System
+Streamlit-based system for managing student records, fees, and homework workflows, with PDF export support.
 
-Database‑driven system to manage **student records, marks, and fees**.
+**Tech Stack:** Streamlit · Python · SQL
+🔗 [GitHub](https://github.com/oscurosingh/student-management-system)
 
-**Tech Stack**
-Python • SQL
+## 🌐 Cisco Networking Labs Website
+Structured Cisco Packet Tracer labs with step-by-step configurations and a consistent documentation layout, built with SEO in mind.
 
----
-
-## 🍽 Restaurant Management System
-
-SQL‑based system for **order processing, billing, and inventory management**.
-
----
-
-# ⭐ Featured Repository
-
-## Machine Learning Roadmap
-
-[https://github.com/oscurosingh/ML](https://github.com/oscurosingh/ML)
-
-A structured repository covering:
-
-* Machine Learning algorithms
-* Deep Learning concepts
-* Feature engineering
-* NLP and Computer Vision
-* MLOps fundamentals
-* End‑to‑end ML projects
+**Tech Stack:** HTML · Networking · SEO
+🔗 [Live](https://cisco-notes.vercel.app/)
 
 ---
 
 # 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 ![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit)
 
-### Programming
-
-* Python
-* C++
-* SQL
-* JavaScript
-
-### Data Science
-
-* Pandas
-* NumPy
-* scikit-learn
-
-### Web Development
-
-* FastAPI
-* HTML
-* CSS
-* Streamlit
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Power BI
-* Excel
+**Languages:** Python, C++, SQL, JavaScript
+**Backend:** FastAPI, REST APIs, JWT, Role-Based Access Control (RBAC)
+**Frontend:** HTML, CSS, JavaScript
+**Data & ML:** Pandas, NumPy, Scikit-learn, EDA, Random Forest
+**Databases:** MySQL, PostgreSQL (Supabase)
+**Tools:** Git, GitHub, VS Code, Power BI, Overleaf (LaTeX), Canva
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Achievements
 
-* Machine Learning
-* Data Analysis
-* Data Visualization
-* Backend APIs with FastAPI
+* 🥈 2nd Position — SQL Wars (2025)
+* 🥈 2nd Position — VizQuest Dashboard Challenge (end-to-end Power BI dashboard with structured modeling and actionable insights)
+* 🥇 Rank 1 — Class XII, School Topper (CBSE)
+* 🎤 Technical Team Member, IC-SFAM 2026 — operated a 2-day hybrid conference, resolved live technical issues, coordinated speakers, delivered design assets (certificates, posters, notebook covers)
 
 ---
 
 # 📊 GitHub Stats
 
-![Oscuro's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscurosingh\&show_icons=true\&theme=tokyonight)
+![Oscuro's GitHub stats](https://github-stats-extended.vercel.app/api?username=oscurosingh&show_icons=true&theme=tokyonight)
 
 ---
 
 # 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscurosingh\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=oscurosingh&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oscurosingh\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=oscurosingh&theme=tokyonight)
 
 ---
 
 # 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscurosingh\&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscurosingh&theme=tokyo-night)
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: [oscuro240224@gmail.com](mailto:oscuro240224@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shubham-kumar-singh-oscuro/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/oscurosingh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=vercel)](https://shubhamkumarsinghdev.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:oscurosingh240224@gmail.com)
 
 ---
 
-⭐ **Passionate about turning data into insights and building intelligent systems.**
+⭐ **Open to Python Developer, Data Science/Analyst, Full Stack, and Backend roles — let's build something.**
