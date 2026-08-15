@@ -168,22 +168,22 @@ Structured Cisco Packet Tracer labs with step-by-step configs and consistent doc
 
 ## 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=oscurosingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oscurosingh&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscurosingh&theme=tokyo-night&hide_border=true" width="90%"/>
 
 <br><br>
+<div align="center">
 
 ## 🧊 Contribution Calendar
 
 <img
-  src="./profile-3d-contrib/profile-green-animate.svg"
+  src="https://raw.githubusercontent.com/oscurosingh/oscurosingh/main/profile-3d-contrib/profile-green-animate.svg"
   alt="3D GitHub Contribution Calendar"
   width="95%"
 />
+
+</div>
 
 </div>
 
