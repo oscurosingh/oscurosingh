@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Generate 3D Contribution Profile
         uses: yoshi389111/github-profile-3d-contrib@latest
