@@ -18,15 +18,15 @@ jobs:
         with:
           github_user_name: oscurosingh
           outputs: |
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Snake
-        uses: actions/upload-artifact@v4
+      - name: Publish Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: github-snake
-          path: |
-            github-snake.svg
-            github-snake-dark.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update contribution snake"
