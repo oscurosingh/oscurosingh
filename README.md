@@ -22,7 +22,25 @@
 
 > I like turning messy data and vague requirements into working systems — APIs that don't fall over, ML models that are actually useful, and small tools that save real time.
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%"/>
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/oscurosingh/oscurosingh/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/oscurosingh/oscurosingh/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/oscurosingh/oscurosingh/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 ---
 
@@ -153,11 +171,19 @@ Structured Cisco Packet Tracer labs with step-by-step configs and consistent doc
 <img src="https://github-stats-extended.vercel.app/api?username=oscurosingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oscurosingh&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oscurosingh&theme=tokyonight&hide_border=true" width="49%"/>
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscurosingh&theme=tokyo-night&hide_border=true" width="90%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=oscurosingh&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<br><br>
+
+## 🧊 Contribution Calendar
+
+<img
+  src="./profile-3d-contrib/profile-green-animate.svg"
+  alt="3D GitHub Contribution Calendar"
+  width="95%"
+/>
 
 </div>
 
